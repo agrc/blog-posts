@@ -8,5 +8,5 @@ Come and see how AGRC wires these technologies together to enable rapid developm
 
 
 ### Presenters
-Scott Davis (State of Utah AGRC) [@ScottAGRC](https://twitter.com/ScottAGRC)
+Scott Davis (State of Utah AGRC) [@ScottAGRC](https://twitter.com/ScottAGRC)  
 Steve Gourley (State of Utah AGRC) [@SteveAGRC](https://twitter.com/SteveAGRC)
