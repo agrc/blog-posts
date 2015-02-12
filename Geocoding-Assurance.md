@@ -3,7 +3,7 @@ Geocoding Assurance
 
 ### Why you should trust the results
 
-The AGRC [web api](http://api.mapserv.utah.gov) is a great resource for deriving information from the [SGID](http://gis.utah.gov/data). Geocoding an address is one of the more popular and useful free endpoints. But how much trust can you put into the match results?
+The AGRC [web api](http://api.mapserv.utah.gov) is a great resource for deriving information from the [SGID](http://gis.utah.gov/data). Geocoding an address is one of the more popular and useful free services. But how much trust can you put into the match results?
 
 As you may know, our geocoding api uses [address points and road centerlines](http://api.mapserv.utah.gov/#geocoding) to locate the best match when geocoding. Each of the 29 Utah counties provide AGRC with a periodic update of their local road centerline and address point data. This schedule helps our geocoding api give the most current data to provide the best matches.
 
